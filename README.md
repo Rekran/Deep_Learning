@@ -1,2 +1,2 @@
 # Deep_Learning
-Listas de exercicio da diciplina de Deep Learning
+Listas de exercício da disciplina de Deep Learning
